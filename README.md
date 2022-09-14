@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Run a production build
+
+```sh
+npm run start
+```

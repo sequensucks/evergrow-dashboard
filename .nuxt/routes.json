@@ -1,0 +1,106 @@
+[
+  {
+    "path": "/reports",
+    "name": "reports",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Reports.vue",
+    "_name": "_a4aa4f5c"
+  },
+  {
+    "path": "/compliance",
+    "name": "compliance",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Compliance.vue",
+    "_name": "_21061bd8"
+  },
+  {
+    "path": "/positions",
+    "name": "positions",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Positions.vue",
+    "_name": "_a3365a86"
+  },
+  {
+    "path": "/assets",
+    "name": "assets",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Assets.vue",
+    "_name": "_0cd7f480"
+  },
+  {
+    "path": "/scenarios",
+    "name": "scenarios",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Scenarios.vue",
+    "_name": "_28ad60b6"
+  },
+  {
+    "path": "/markets",
+    "name": "markets",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Markets.vue",
+    "_name": "_653e836c"
+  },
+  {
+    "path": "/dashboard",
+    "name": "dashboard",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Dashboard.vue",
+    "_name": "_44200be7"
+  },
+  {
+    "path": "/",
+    "name": "home",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Home.vue",
+    "_name": "_968b0348"
+  },
+  {
+    "name": "Assets",
+    "path": "/Assets",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Assets.vue",
+    "chunkName": "pages/Assets",
+    "_name": "_0cd7f480"
+  },
+  {
+    "name": "Compliance",
+    "path": "/Compliance",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Compliance.vue",
+    "chunkName": "pages/Compliance",
+    "_name": "_21061bd8"
+  },
+  {
+    "name": "Dashboard",
+    "path": "/Dashboard",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Dashboard.vue",
+    "chunkName": "pages/Dashboard",
+    "_name": "_44200be7"
+  },
+  {
+    "name": "Home",
+    "path": "/Home",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Home.vue",
+    "chunkName": "pages/Home",
+    "_name": "_968b0348"
+  },
+  {
+    "name": "Markets",
+    "path": "/Markets",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Markets.vue",
+    "chunkName": "pages/Markets",
+    "_name": "_653e836c"
+  },
+  {
+    "name": "Positions",
+    "path": "/Positions",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Positions.vue",
+    "chunkName": "pages/Positions",
+    "_name": "_a3365a86"
+  },
+  {
+    "name": "Reports",
+    "path": "/Reports",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Reports.vue",
+    "chunkName": "pages/Reports",
+    "_name": "_a4aa4f5c"
+  },
+  {
+    "name": "Scenarios",
+    "path": "/Scenarios",
+    "component": "/Users/sequensucks/www/evergrow-dashboard/pages/Scenarios.vue",
+    "chunkName": "pages/Scenarios",
+    "_name": "_28ad60b6"
+  }
+]
